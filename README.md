@@ -1,1 +1,1 @@
-All about vagrant
+HOW TO CODE OUTSIDE THE SANDBOX
